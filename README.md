@@ -128,8 +128,8 @@ html {
 <h3><span class="white">↓ 2019/05/19</span></h3>
 <a href="20190519_001.JPG" data-lightbox="abc"><img src="20190519_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190519_004.JPG" data-lightbox="abc"><img src="20190519_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190519_003.JPG" data-lightbox="abc"><img src="20190519_003.JPG" alt="サンプル画像" width="900" /></a>
 <!--
+<a href="20190519_003.JPG" data-lightbox="abc"><img src="20190519_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190519_002.JPG" data-lightbox="abc"><img src="20190519_002.JPG" alt="サンプル画像" width="900" /></a>
 -->
 <a href="20190519_005.JPG" data-lightbox="abc"><img src="20190519_005.JPG" alt="サンプル画像" width="900" /></a>
