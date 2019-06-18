@@ -144,7 +144,7 @@ html {
 <a href="20190613_006.JPG" data-lightbox="abc"><img src="20190613_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190613_007.JPG" data-lightbox="abc"><img src="20190613_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190613_008.JPG" data-lightbox="abc"><img src="20190613_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190618_001.JPG" data-lightbox="abc"><img src="20190618_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190618_002.JPG" data-lightbox="abc"><img src="20190618_002.JPG" alt="サンプル画像" width="900" /></a>
 <br><br><br><br>
 <p>駐車場はお店の左側です。</p>
 <a href="20190613_009.JPG" data-lightbox="abc"><img src="20190613_009.JPG" alt="サンプル画像" width="900" /></a>
