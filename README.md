@@ -120,6 +120,7 @@ html {
 <h1><span class="yellow"><marquee behavior="left">!!!タイ古式マッサージ、チェンマイ@宇都宮市簗瀬４丁目２２-９、Open,AM12:00~Close,PM12:00!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:080-3120-0260</marquee></p>
 <h1><span class="yellow"><marquee direction="left" scrollamount="5" width="100%">9月18日（金）から営業再開予定です。しばらくは金、土、日のみの営業となります。よろしくお願いします!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee direction="left" scrollamount="5" width="100%">電話予約いただいてからお越しいただけると、準備がスムーズになります。よろしくお願いします。</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_chiangmai.png" alt="QR_code" width="100" >
 <img src="https://yayaploy.github.io/kaomangai/venus1.gif" alt="https://yayaploy.github.io/kaomangai/venus1.gif" width="50">
