@@ -118,8 +118,10 @@ html {
 
 <p align="right">タイ古式マッサージ、チェンマイ</p>
 <h1><span class="yellow"><marquee behavior="left">!!!タイ古式マッサージ、チェンマイ@宇都宮市簗瀬４丁目２２-９、Open,AM12:00~Close,PM12:00!!!</marquee></span></h1>
-<p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:028-634-0158</marquee></p>
+<p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:０８０-5467-1875</marquee></p>
+<!--
 <h1><span class="yellow"><marquee direction="left" scrollamount="5" width="100%">10月5日(月)営業再開しました。よろしくお願いします!!!</marquee></span></h1>
+-->
 <h1><span class="yellow"><marquee direction="left" scrollamount="5" width="100%">電話予約いただいてからお越しいただけると、準備がスムーズになります。よろしくお願いします。</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_chiangmai.png" alt="QR_code" width="100" >
