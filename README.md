@@ -115,13 +115,15 @@ html {
 <!--
 <div class="landscape-view"><img src="turn.png"></div>
 -->
-
+<h1><span class="yellow"><marquee behavior="left">!!!HP Stopped!!!</marquee></span></h1>
+<!--
 <p align="right">タイ古式マッサージ、チェンマイ</p>
 <h1><span class="yellow"><marquee behavior="left">!!!タイ古式マッサージ、チェンマイ@宇都宮市簗瀬４丁目２２-９、Open,AM12:00~Close,PM12:00!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">携帯:080-5467-1875</marquee></p>
 <!--
 <h1><span class="yellow"><marquee direction="left" scrollamount="5" width="100%">10月5日(月)営業再開しました。よろしくお願いします!!!</marquee></span></h1>
 -->
+<!--
 <h1><span class="yellow"><marquee direction="left" scrollamount="5" width="100%">電話予約いただいてからお越しいただけると、準備がスムーズになります。よろしくお願いします。</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_chiangmai.png" alt="QR_code" width="100" >
@@ -136,11 +138,13 @@ html {
 <a href="20190519_003.JPG" data-lightbox="abc"><img src="20190519_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190519_002.JPG" data-lightbox="abc"><img src="20190519_002.JPG" alt="サンプル画像" width="900" /></a>
 -->
+<!--
 <a href="20190519_005.JPG" data-lightbox="abc"><img src="20190519_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190519_006.JPG" data-lightbox="abc"><img src="20190519_006.JPG" alt="サンプル画像" width="900" /></a>
 <!--
 <a href="20190613_001.JPG" data-lightbox="abc"><img src="20190613_001.JPG" alt="サンプル画像" width="900" /></a>
 -->
+<!--
 <a href="20190613_002.JPG" data-lightbox="abc"><img src="20190613_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190613_003.JPG" data-lightbox="abc"><img src="20190613_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190613_004.JPG" data-lightbox="abc"><img src="20190613_004.JPG" alt="サンプル画像" width="900" /></a>
@@ -174,7 +178,11 @@ Map
 <script src="https://yayaploy.github.io/suphattraland/my.js"></script> 
 
 <!-- フッタ -->
+<!--
  <footer><span class="snow">
  Copyright 2019/05/19 Torokoid.Mibu
 </span></footer>
 </html>
+-->
+	 </body>
+	 </html>
