@@ -46,7 +46,7 @@ background-color: rgba(255, 255, 0, 0.3);
 section {
 background-color: rgba(0, 225, 0, 0.5);
 }
-
+<!--
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
@@ -60,7 +60,7 @@ body::before {
   background:url(https://yayaploy.github.io/chiangmai/20190519_005.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
-
+-->
 /*
 div {
   background-color: rgb(0,0,0);
